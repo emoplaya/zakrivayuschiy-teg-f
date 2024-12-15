@@ -98,7 +98,6 @@
   font-family: var(--accent-font, "PressStart2P", "Arial", fantasy);
   align-items: center;
   justify-content: center;
-  block-size: 364px;
   border: 2px solid var(--border-color, #000);
   inline-size: var(--inline-size, clamp(375px, 100vw, 700px));
   block-size: var(--block-size, clamp(327px, 22.95vw, 368px));
