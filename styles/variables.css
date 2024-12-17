@@ -9,10 +9,11 @@
   --text-stroke-color: #fff;
   --card-bg-color: #fff;
   --inline-size: clamp(375px, 100vw, 700px);
-  --block-size: clamp(327px, 22.95vw, 368px);
+  --header-padding: clamp(120px, 20.4vw, 128px);
   --header-title-fz: clamp(3.0625rem, 2.7104rem + 1.5023vw, 4.0625rem);
   --header-subtitle-fz: clamp(0.875rem, 0.6769rem + 0.8451vw, 1.4375rem);
   --button-inline-size: clamp(310px, 80vw, 339px);
+  --label-inset-inline: clamp(11px, 2.6vw, 25px);
   --accent-fz: 14px;
   --text-fz: 18px;
   --bg-image: repeating-linear-gradient(
